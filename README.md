@@ -1,4 +1,4 @@
-# AzNoteBookTips
+# AML_NoteBook_Setup_Tips # Pre-Req
 Azure Machine Learning NoteBook setup tips
 ==========================================
 
